@@ -1,0 +1,8 @@
+{
+  "version" : 0,
+  "nextFetchIntervalMs" : {
+    "start" : 79200000,
+    "end" : 93600000
+  },
+  "blacklistedPackageProperties" : []
+}

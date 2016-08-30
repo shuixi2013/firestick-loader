@@ -1,0 +1,45 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: BZu+R6HbqTWFXy6a1xjH5XNMO/k=
+SHA1-Digest-Manifest: 4my/9X+vKfrPyqfs3fRstN94qB4=
+Created-By: 1.8.0_92 (Oracle Corporation)
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: eAe4aQ3DNPRP6pSEW0HgZPPU5nE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mq9ulnRZiAXXKBlim3gVWHQXoxQ=
+
+Name: assets/com.amazon.device.management.arcus-app-default-configurat
+ ion.json
+SHA1-Digest: YN+UVKjzOwHMpCiqewDrmUTBN6I=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: he0u+MMYOPtjL0qaRCkw275Ntw0=
+
+Name: res/layout/activity_notifier.xml
+SHA1-Digest: Wayikxopn+RyyI9k4Nr7oOL4Ljw=
+
+Name: com/amazon/device/management/dagger/DaggerModule.dot
+SHA1-Digest: jQVVZ3dluNDZMMgMkfdBnLBsEF4=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 7rQl6EYeTTp31EHiQqxTWNvHumI=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: iLOKwoF385humB5kq5Bq46YZBTo=
+
+Name: com/fasterxml/jackson/core/json/PackageVersion.java.in
+SHA1-Digest: BUYlZ+O5z8txum8EvAMVChOHN1M=
+
+Name: com/fasterxml/jackson/databind/cfg/PackageVersion.java.in
+SHA1-Digest: qR/2BHk+hPVOL2hioXYrb08V32s=
+
+Name: resources.arsc
+SHA1-Digest: 5CXMO+FMWroIiA8UMd4BeDn4CXE=
+
+Name: classes.dex
+SHA1-Digest: jgqjU24xQb9kG6QNOiGqX3mhwjI=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: w8zlhwlle2aoufXsl5l6tyaB0OQ=
+
